@@ -1,4 +1,4 @@
-This project is a web application that provides unit conversion tools for temperature, weight, and distance. 
+This project is a web application that provides unit conversion tools for temperature 🌡️, weight 🏋️‍♂️, and distance 🏃‍♀️. 
 It includes three main sections where users can convert Celsius to Fahrenheit, kilograms to pounds, and kilometers to miles. 
 The project is styled with HTML and CSS and includes interactivity through JavaScript.
 
